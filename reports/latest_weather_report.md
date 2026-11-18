@@ -1,22 +1,22 @@
 # 🌦️ Raport Aury na Kampusie ALK – Potok GitHub Actions
 
-* **Data aktualizacji:** `2026-11-18 03:44 UTC`
-* **Źródło danych:** `Open-Meteo API (Fallback)`
+* **Data aktualizacji:** `2026-11-18 04:51 UTC`
+* **Źródło danych:** `Symulacja manualna (Workflow Dispatch)`
 * **Lokalizacja:** Warszawa, ul. Jagiellońska 57/59 (Kampus ALK)
 
 ## Parametry Aury:
 | Parametr | Wartość |
 | :--- | :--- |
-| **Stan ogólny** | 🌙 Nocna sesja na ALK (`night`) |
-| **Temperatura** | **5.1 °C** |
-| **Wilgotność względna** | 95 % |
+| **Stan ogólny** | ☀️ Pełne słońce nad Patio ALK (Test CI/CD) (`sunny`) |
+| **Temperatura** | **24.0 °C** |
+| **Wilgotność względna** | 45 % |
 | **Opady** | 0.0 mm |
-| **Pora doby** | Noc 🌙 |
+| **Pora doby** | Dzień ☀️ |
 
 ## Wpływ na Rozgrywkę „Kozminski Escape”:
-* **Komunikat Dziekanatu:** *„Umiarkowane zachmurzenie nad kampusem. Idealne warunki do nauki i ucieczki przed sesją.”*
-* **Kwestia Profesora:** *„Gdzie podziały się arkusze z egzaminu z mikroekonomii?!”*
-* **Efekt graficzny:** `none`
+* **Komunikat Dziekanatu:** *„Słoneczna pogoda! ECTS lśnią na Patio, a profesor w dobrym humorze chętnie stawia 5.0!”*
+* **Kwestia Profesora:** *„Piękna pogoda na zaliczenie w pierwszym terminie! Złapmy trochę słońca!”*
+* **Efekt graficzny:** `sunbeams`
 * **Współczynnik tarcia (poślizg gracza):** `0.98`
 
 ---
