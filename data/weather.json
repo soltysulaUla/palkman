@@ -4,8 +4,8 @@
   "condition": "sunny",
   "condition_label": "Słonecznie nad Kampusem ALK",
   "icon": "☀️",
-  "temp_c": 0.7,
-  "humidity": 82,
+  "temp_c": 1.4,
+  "humidity": 84,
   "precipitation_mm": 0.0,
   "is_day": true,
   "campus_alert": "Słoneczna pogoda! ECTS lśnią na Patio, a profesor w dobrym humorze chętnie stawia 5.0!",
@@ -14,7 +14,7 @@
     "particles": "sunbeams",
     "player_friction": 0.98,
     "professor_quote": "Piękna pogoda na zaliczenie w pierwszym terminie! Złapmy trochę słońca!",
-    "hud_badge": "☀️ 0.7°C | Słonecznie nad Kampusem ALK"
+    "hud_badge": "☀️ 1.4°C | Słonecznie nad Kampusem ALK"
   },
-  "last_updated": "2026-11-21 06:53 UTC"
+  "last_updated": "2026-11-21 08:02 UTC"
 }
