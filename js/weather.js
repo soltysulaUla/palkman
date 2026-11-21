@@ -1,11 +1,11 @@
-// Automatycznie wygenerowane przez potok GitHub Actions (2026-11-21 13:49 UTC)
+// Automatycznie wygenerowane przez potok GitHub Actions (2026-11-21 14:40 UTC)
 window.CAMPUS_WEATHER = {
   "city": "Warszawa (Kampus ALK, ul. Jagiellońska)",
   "source": "Open-Meteo API (Fallback)",
   "condition": "cloudy",
   "condition_label": "Umiarkowane zachmurzenie",
   "icon": "☁️",
-  "temp_c": 3.1,
+  "temp_c": 2.9,
   "humidity": 81,
   "precipitation_mm": 0.0,
   "is_day": true,
@@ -15,7 +15,7 @@ window.CAMPUS_WEATHER = {
     "particles": "none",
     "player_friction": 0.98,
     "professor_quote": "Gdzie podziały się arkusze z egzaminu z mikroekonomii?!",
-    "hud_badge": "☁️ 3.1°C | Umiarkowane zachmurzenie"
+    "hud_badge": "☁️ 2.9°C | Umiarkowane zachmurzenie"
   },
-  "last_updated": "2026-11-21 13:49 UTC"
+  "last_updated": "2026-11-21 14:40 UTC"
 };
