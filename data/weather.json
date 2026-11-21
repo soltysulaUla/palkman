@@ -1,20 +1,20 @@
 {
   "city": "Warszawa (Kampus ALK, ul. Jagiellońska)",
   "source": "Open-Meteo API (Fallback)",
-  "condition": "cloudy",
-  "condition_label": "Umiarkowane zachmurzenie",
-  "icon": "☁️",
+  "condition": "night",
+  "condition_label": "Nocna sesja na ALK",
+  "icon": "🌙",
   "temp_c": 2.9,
-  "humidity": 81,
+  "humidity": 79,
   "precipitation_mm": 0.0,
-  "is_day": true,
+  "is_day": false,
   "campus_alert": "Umiarkowane zachmurzenie nad kampusem. Idealne warunki do nauki i ucieczki przed sesją.",
   "game_effects": {
     "theme_class": "weather-cloudy",
     "particles": "none",
     "player_friction": 0.98,
     "professor_quote": "Gdzie podziały się arkusze z egzaminu z mikroekonomii?!",
-    "hud_badge": "☁️ 2.9°C | Umiarkowane zachmurzenie"
+    "hud_badge": "🌙 2.9°C | Nocna sesja na ALK"
   },
-  "last_updated": "2026-11-21 14:40 UTC"
+  "last_updated": "2026-11-21 15:35 UTC"
 }
