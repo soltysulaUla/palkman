@@ -1,6 +1,6 @@
 # 🌦️ Raport Aury na Kampusie ALK – Potok GitHub Actions
 
-* **Data aktualizacji:** `2026-11-23 21:41 UTC`
+* **Data aktualizacji:** `2026-11-23 22:41 UTC`
 * **Źródło danych:** `Open-Meteo API (Fallback)`
 * **Lokalizacja:** Warszawa, ul. Jagiellońska 57/59 (Kampus ALK)
 
@@ -8,8 +8,8 @@
 | Parametr | Wartość |
 | :--- | :--- |
 | **Stan ogólny** | 🌙 Nocna sesja na ALK (`night`) |
-| **Temperatura** | **1.9 °C** |
-| **Wilgotność względna** | 87 % |
+| **Temperatura** | **1.7 °C** |
+| **Wilgotność względna** | 88 % |
 | **Opady** | 0.0 mm |
 | **Pora doby** | Noc 🌙 |
 
