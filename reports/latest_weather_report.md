@@ -1,6 +1,6 @@
 # 🌦️ Raport Aury na Kampusie ALK – Potok GitHub Actions
 
-* **Data aktualizacji:** `2026-11-24 00:46 UTC`
+* **Data aktualizacji:** `2026-11-24 02:06 UTC`
 * **Źródło danych:** `Open-Meteo API (Fallback)`
 * **Lokalizacja:** Warszawa, ul. Jagiellońska 57/59 (Kampus ALK)
 
@@ -8,8 +8,8 @@
 | Parametr | Wartość |
 | :--- | :--- |
 | **Stan ogólny** | 🌧️ Opady deszczu na Jagiellońskiej (`rain`) |
-| **Temperatura** | **1.3 °C** |
-| **Wilgotność względna** | 92 % |
+| **Temperatura** | **1.2 °C** |
+| **Wilgotność względna** | 93 % |
 | **Opady** | 0.2 mm |
 | **Pora doby** | Noc 🌙 |
 
