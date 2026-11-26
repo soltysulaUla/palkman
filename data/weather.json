@@ -4,8 +4,8 @@
   "condition": "night",
   "condition_label": "Nocna sesja na ALK",
   "icon": "🌙",
-  "temp_c": -0.4,
-  "humidity": 75,
+  "temp_c": -0.5,
+  "humidity": 78,
   "precipitation_mm": 0.0,
   "is_day": false,
   "campus_alert": "Umiarkowane zachmurzenie nad kampusem. Idealne warunki do nauki i ucieczki przed sesją.",
@@ -14,7 +14,7 @@
     "particles": "none",
     "player_friction": 0.98,
     "professor_quote": "Gdzie podziały się arkusze z egzaminu z mikroekonomii?!",
-    "hud_badge": "🌙 -0.4°C | Nocna sesja na ALK"
+    "hud_badge": "🌙 -0.5°C | Nocna sesja na ALK"
   },
-  "last_updated": "2026-11-26 21:42 UTC"
+  "last_updated": "2026-11-26 22:45 UTC"
 }
