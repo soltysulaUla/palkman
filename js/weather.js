@@ -1,12 +1,12 @@
-// Automatycznie wygenerowane przez potok GitHub Actions (2026-11-26 06:57 UTC)
+// Automatycznie wygenerowane przez potok GitHub Actions (2026-11-26 08:27 UTC)
 window.CAMPUS_WEATHER = {
   "city": "Warszawa (Kampus ALK, ul. Jagiellońska)",
-  "source": "Open-Meteo API (Fallback)",
+  "source": "Symulacja manualna (Workflow Dispatch)",
   "condition": "sunny",
-  "condition_label": "Słonecznie nad Kampusem ALK",
+  "condition_label": "Pełne słońce nad Patio ALK (Test CI/CD)",
   "icon": "☀️",
-  "temp_c": -0.1,
-  "humidity": 88,
+  "temp_c": 24.0,
+  "humidity": 45,
   "precipitation_mm": 0.0,
   "is_day": true,
   "campus_alert": "Słoneczna pogoda! ECTS lśnią na Patio, a profesor w dobrym humorze chętnie stawia 5.0!",
@@ -15,7 +15,7 @@ window.CAMPUS_WEATHER = {
     "particles": "sunbeams",
     "player_friction": 0.98,
     "professor_quote": "Piękna pogoda na zaliczenie w pierwszym terminie! Złapmy trochę słońca!",
-    "hud_badge": "☀️ -0.1°C | Słonecznie nad Kampusem ALK"
+    "hud_badge": "☀️ 24.0°C | Pełne słońce nad Patio ALK (Test CI/CD)"
   },
-  "last_updated": "2026-11-26 06:57 UTC"
+  "last_updated": "2026-11-26 08:27 UTC"
 };
